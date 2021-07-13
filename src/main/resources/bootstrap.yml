@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: customer-enterprise-service
+  cloud:
+    config:
+      uri:
+      - http://localhost:9070
+      username: root
+      password: s0p0rt3
